@@ -1,2 +1,4 @@
 # 028_CU_IPTV_Multicast_Share
 028联通IPTV组播分享
+
+光猫使用IPTV IPoE拨号成功后，路由器针对WAN口添加公共组播ID的VLAN即可收到数据，VLAN ID在光猫配置中可以找到，028地区为4075
