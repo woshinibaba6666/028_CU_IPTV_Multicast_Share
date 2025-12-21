@@ -1,0 +1,34 @@
+{
+    "lives": [
+        {
+            "name": "IPTV组播",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/woshinibaba6666/028_CU_IPTV_Multicast_Share/refs/heads/main/iptv_multicast.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "epg": "",
+            "logo": ""
+        },
+        {
+            "name": "IPTV单播",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/woshinibaba6666/028_CU_IPTV_Multicast_Share/refs/heads/main/iptv_unicast.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "epg": "",
+            "logo": ""
+        },
+        {
+            "name": "IPTV混合",
+            "type": 0,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/woshinibaba6666/028_CU_IPTV_Multicast_Share/refs/heads/main/iptv_unicast_mix.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "epg": "",
+            "logo": ""
+        }
+    ]
+}
