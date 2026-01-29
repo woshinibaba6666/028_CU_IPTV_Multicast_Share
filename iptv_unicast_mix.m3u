@@ -113,7 +113,17 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227371/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228069/index.m3u8
 #EXTINF:-1 ,CETV-1高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227339/index.m3u8
-#EXTINF:-1 ,CGTN-英语高清
+#EXTINF:-1 ,CGTN记录高清
+http://192.168.99.2:5140/rtp/239.0.0.44:5140
+#EXTINF:-1 ,CGTN西班牙语高清
+http://192.168.99.2:5140/rtp/239.0.0.45:5140
+#EXTINF:-1 ,CGTN法语高清
+http://192.168.99.2:5140/rtp/239.0.0.46:5140
+#EXTINF:-1 ,CGTN阿拉伯语高清
+http://192.168.99.2:5140/rtp/239.0.0.47:5140
+#EXTINF:-1 ,CGTN俄语高清
+http://192.168.99.2:5140/rtp/239.0.0.48:5140
+#EXTINF:-1 ,CGTN英语高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228075/index.m3u8
 #EXTINF:-1 ,厦门卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227938/index.m3u8
@@ -179,8 +189,6 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227976/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227971/index.m3u8
 #EXTINF:-1 ,茶频道高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227974/index.m3u8
-#EXTINF:-1 ,先锋乒羽
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227967/index.m3u8
 #EXTINF:-1 ,快乐垂钓高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227965/index.m3u8
 #EXTINF:-1 ,四川卫视4K50P
@@ -201,6 +209,8 @@ http://192.168.99.2:5140/rtp/239.0.0.206:5140
 http://192.168.99.2:5140/rtp/239.0.0.207:5140
 #EXTINF:-1 ,山东卫视4K50P
 http://192.168.99.2:5140/rtp/239.0.0.208:5140
+#EXTINF:-1 ,先锋乒羽
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227967/index.m3u8
 #EXTINF:-1 ,成都综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227495/index.m3u8
 #EXTINF:-1 ,成都经济
